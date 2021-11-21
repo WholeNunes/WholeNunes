@@ -18,13 +18,17 @@ Sobre mim
       <a href="https://www.linkedin.com/in/wholenunescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  Minhas Estatisticas
+  <div>
+   <div align="center"
+   Minhas Estatisticas
+  </div>
   
+  <div>
   <div align="center">
   <a href="https://github.com/WholeNunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WholeNunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WholeNunes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  </div>
 
 Meus conhecimentos
 <div style="display: inline_block"><br>
