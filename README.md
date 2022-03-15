@@ -7,10 +7,10 @@ Sobre mim
 - 🏳️‍🌈 Pronomes: ele/dele 
 - #Diversidade
 
-- 🎯 Interesses: Python, Machine Learning, C+, JavaScript, Banco de Dados.
+- 🎯 Interesses: Python, Machine Learning, Data Science.
   Obs: estou sempre disposto a aprender novas programações e tecnologias, amoo estudar!
 
-- 🎮 Gosto de jogar online e falar sobre coisas malucas com minha turminha. 
+- 🎮 Gosto de jogar online e falar sobre coisas malucas. 
 
   Meu Contato 📱
 
