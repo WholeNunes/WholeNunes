@@ -2,7 +2,7 @@
   
 Sobre mim
 
-- 👨‍🎓 Estudante de Engenharia de Controle e Automação(Mecatrônica), atualmente estou cursando o 9° semestre.
+- 👨‍🎓 Estudante de Engenharia de Controle e Automação(Mecatrônica), atualmente estou cursando o 10° semestre.
   
 - 🏳️‍🌈 Pronomes: ele/dele 
 - #Diversidade
