@@ -8,7 +8,7 @@ Sobre mim
 - #Diversidade
 
 - 🎯 Interesses: Python, Machine Learning, Data Science.
-  Obs: estou sempre disposto a aprender novas programações e tecnologias, amoo estudar!
+  Obs: estou sempre disposto a aprender novas programações e tecnologias.
 
 - 🎮 Gosto de jogar online e falar sobre coisas malucas. 
 
