@@ -1,16 +1,4 @@
 ### Olá! eu sou o Whole👋
-  
-Sobre mim
-
-- 👨‍🎓 Estudante de Engenharia de Controle e Automação(Mecatrônica), atualmente estou cursando o 10° semestre.
-  
-- 🏳️‍🌈 Pronomes: ele/dele 
-- #Diversidade
-
-- 🎯 Interesses: Python, Machine Learning, Data Science.
-  Obs: estou sempre disposto a aprender novas programações e tecnologias.
-
-- 🎮 Gosto de jogar online e falar sobre coisas malucas. 
 
   Meu Contato 📱
 
